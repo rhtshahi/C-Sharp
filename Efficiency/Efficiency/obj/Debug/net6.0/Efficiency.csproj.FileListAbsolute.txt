@@ -1,0 +1,15 @@
+D:\L5\C#\Codes\Efficiency\Efficiency\bin\Debug\net6.0\Efficiency.exe
+D:\L5\C#\Codes\Efficiency\Efficiency\bin\Debug\net6.0\Efficiency.deps.json
+D:\L5\C#\Codes\Efficiency\Efficiency\bin\Debug\net6.0\Efficiency.runtimeconfig.json
+D:\L5\C#\Codes\Efficiency\Efficiency\bin\Debug\net6.0\Efficiency.dll
+D:\L5\C#\Codes\Efficiency\Efficiency\bin\Debug\net6.0\Efficiency.pdb
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.csproj.AssemblyReference.cache
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.AssemblyInfoInputs.cache
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.AssemblyInfo.cs
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.csproj.CoreCompileInputs.cache
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.dll
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\refint\Efficiency.dll
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.pdb
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\Efficiency.genruntimeconfig.cache
+D:\L5\C#\Codes\Efficiency\Efficiency\obj\Debug\net6.0\ref\Efficiency.dll

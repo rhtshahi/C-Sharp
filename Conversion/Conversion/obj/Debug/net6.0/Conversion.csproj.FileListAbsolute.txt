@@ -1,0 +1,15 @@
+D:\L5\C#\Codes\Conversion\Conversion\bin\Debug\net6.0\Conversion.exe
+D:\L5\C#\Codes\Conversion\Conversion\bin\Debug\net6.0\Conversion.deps.json
+D:\L5\C#\Codes\Conversion\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+D:\L5\C#\Codes\Conversion\Conversion\bin\Debug\net6.0\Conversion.dll
+D:\L5\C#\Codes\Conversion\Conversion\bin\Debug\net6.0\Conversion.pdb
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.dll
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\refint\Conversion.dll
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.pdb
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache
+D:\L5\C#\Codes\Conversion\Conversion\obj\Debug\net6.0\ref\Conversion.dll
